@@ -41,7 +41,7 @@ And then follow the heroku instructions to deploy the app.
 ### Author
 
 Helena Oliveira
-[Casal Dev](http://www.tcasaldev.com.br)
+[Casal Dev](http://www.casaldev.com.br)
 
 ### Version
 
